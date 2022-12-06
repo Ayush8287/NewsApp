@@ -1,5 +1,47 @@
 <resources>
     <string name="app_name">News App</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="top_icon">TOP ICON</string>
+        <string name="firstName">First Name</string>
+        <string name="LastName">Last Name</string>
+        <string name="email">Email</string>
+        <string name="password">Password</string>
+        <string name="login">LOGIN</string>
+        <string name="forgot_password">FORGOT PASSWORD?</string>
+        <string name="or">OR</string>
+        <string name="google_icon">google icon</string>
+        <string name="facebook_icon">facebook icon</string>
+        <string name="new_user_register_now">New User? Register Now</string>
+        <string name="title_activity_main2">MainActivity2</string>
+        <!-- Strings used for fragments for navigation -->
+        <string name="first_fragment_label">First Fragment</string>
+        <string name="second_fragment_label">Second Fragment</string>
+        <string name="next">Next</string>
+        <string name="previous">Previous</string>
+
+        <string name="facebook_app_id">1736312050047391</string>
+        <string name="fb_login_protocol_scheme">fb1736312050047391</string>
+        <string name="facebook_client_token">7b37e9b8135c34cfba13fb36f1bb1734</string>
+        <string name="About_Us">
+       <br> - We basically intend to design a android application named Community4You which gather information about various communities together on a single platform.\n\n</br>
+        <br>
+        - We hope to address the issue of lack of guidance by providing students with information about the community, such as how to contact them based on their interests and needs.\n\n</br>
+<br>
+        - Also, parents can benefit from such an app by easily accessing the right guidance of the field their child demands that they might not have.\n\n</br>
+
+    </string>
+
+        <string name="objective">
+<br>
+        - Providing the youth support to achieve their goals according to their skill set and interest.\n\n</br>
+<br>
+        - Connecting like minded people via various medium like slack, discord etc.\n\n</br>
+<br>
+        - Helping students to better understand their skill set and interest and help them to elaborate it to their parents.\n\n</br>
+    </string>
+
+        <string name="hello_first_fragment">Hello first fragment</string>
+        <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="search">Search</string>
 </resources>
